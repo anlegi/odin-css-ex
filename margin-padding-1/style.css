@@ -1,0 +1,23 @@
+.one {
+  background-color: rgb(239, 141, 141);
+  border-style: solid;
+  border-color: blue;
+  padding: 32px;
+  margin: 12px;
+}
+
+.two {
+  background-color: rgb(122, 182, 211);
+  border-style: solid;
+  border-color: rgb(127, 2, 2);
+}
+
+.three {
+  background-color: rgb(232, 191, 115);
+  border-style: solid;
+  border-color: rgb(127, 2, 2);
+  padding: 32px;
+  margin-top: 48px;
+  width: 200px;
+  margin-left: auto;
+}

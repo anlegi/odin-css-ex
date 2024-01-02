@@ -1,0 +1,32 @@
+.container {
+  margin: 18px;
+  padding: 8px;
+  background: white;
+  width: 500px;
+}
+
+.title {
+  background: rgb(140, 214, 243);
+  margin-top: 0;
+  margin-bottom: 8px;
+  padding: 8px;
+  font-size: 16px;
+}
+
+.content {
+  background: rgb(140, 214, 243);
+  margin-bottom: 8px;
+  padding: 16px 8px;
+}
+
+.button-card {
+  background: rgb(140, 214, 243);
+  text-align: center;
+  padding: 8px;
+}
+
+button {
+  display: block;
+  margin: 0 auto;
+  padding: 8px 24px;
+}
