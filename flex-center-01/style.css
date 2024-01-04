@@ -1,0 +1,19 @@
+.container {
+  background-color: rgb(48, 125, 239);
+  border: rgb(2, 2, 204) solid 4px;
+  width: 500px;
+  height: 370px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.center {
+  background-color: rgb(203, 117, 117);
+  border: rgb(93, 0, 0) solid 6px;
+  width: 120px;
+  height: 120px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
