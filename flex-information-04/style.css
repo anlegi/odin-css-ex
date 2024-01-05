@@ -1,0 +1,25 @@
+.title {
+  display: flex;
+  justify-content: center;
+}
+
+.plants {
+  margin-top: 32px;
+  gap: 52px;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+body {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
