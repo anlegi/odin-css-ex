@@ -1,0 +1,53 @@
+.header {
+  background-color: #1F2937;
+}
+ul {
+  list-style: none;
+
+}
+
+a {
+  text-decoration: none;
+  color: grey;
+}
+
+.container-1 {
+  background-color: #1F2937;
+}
+
+.logo {
+  font-size: 24px;
+  color: #F9FAF8;
+}
+.title {
+  font-size: 48px;
+  font-weight: 800;
+  color: #F9FAF8;
+}
+
+.text {
+  font-size: 18px;
+  color: #E5E7EB;
+}
+
+.footer {
+  background-color: #1F2937;
+  color: #E5E7EB;
+}
+
+button {
+  background-color: #3882F6;
+  color: white;
+}
+
+.title-info {
+  font-size: 36px;
+  font-weight: 800;
+}
+
+.quote {
+  background-color: #E5E7EB;
+  color: #1F2937;
+  font-size: 36px;
+  font-style: italic;
+}
